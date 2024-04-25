@@ -137,7 +137,7 @@ header .wrapper ul li:last-child a{
     font-size: 40px;
     font-weight: normal;
 }
-
+/* Question section */
 
 .question h1{
     text-align: center;
@@ -166,4 +166,25 @@ header .wrapper ul li:last-child a{
 }
 .question .ques-container img{
     width: 22px;
+}
+/* Last section */
+.last-section{
+    background-color: #1DB954;
+    padding: 60px 0;
+    position: relative;
+}
+.last-section .wrapper h1{
+    text-align: center;
+    font-size: 56px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.last-section a{
+    padding: 5px 35px;
+    background-color: #fff;
+    color: #000;
+    border-radius: 30px;
+    font-weight: 500;
+    position: absolute;
+    left: 40rem;
 }
