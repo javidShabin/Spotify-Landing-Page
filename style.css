@@ -188,3 +188,33 @@ header .wrapper ul li:last-child a{
     position: absolute;
     left: 40rem;
 }
+/* footer section */
+footer{
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+footer .wrapper{
+    width: 89%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer .wrapper ul{
+    display: flex;
+}
+
+footer .wrapper ul li{
+    margin: 15px 20px;
+}
+
+footer .wrapper ul li a{
+    color: #fff;
+}
+
+footer p{
+    color: #fff;
+    font-size: 14px;
+    font-weight: normal;
+}
