@@ -89,6 +89,7 @@ header .wrapper ul li:last-child a{
     text-align: center;
     margin-top: 70px;
     font-size: 45px;
+    font-weight: 600;
 }
 
 #features .card-container{
@@ -135,4 +136,8 @@ header .wrapper ul li:last-child a{
     text-align: center;
     font-size: 40px;
     font-weight: normal;
+}
+
+.question{
+    padding: 100px 0;
 }
