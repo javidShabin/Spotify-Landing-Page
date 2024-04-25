@@ -138,6 +138,20 @@ header .wrapper ul li:last-child a{
     font-weight: normal;
 }
 
-.question{
-    padding: 100px 0;
+
+.question h1{
+    text-align: center;
+    font-size: 56px;
+    font-weight: bold;
+    margin-top: 8rem;
+}
+.question .ques-container{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    margin: 7rem auto;
+
+}
+.question .ques-container img{
+    width: 22px;
 }
