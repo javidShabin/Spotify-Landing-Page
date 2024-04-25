@@ -143,12 +143,16 @@ header .wrapper ul li:last-child a{
     text-align: center;
     font-size: 56px;
     font-weight: bold;
-    margin-top: 8rem;
+    margin-top: 7%;
 }
 
 .question h3{
     font-size: 20px;
     font-weight: 600;
+}
+
+.qu-wrapper{
+    margin-top: 11rem;
 }
 
 .question .ques-container{
@@ -158,7 +162,7 @@ header .wrapper ul li:last-child a{
     margin: 7rem auto;
     padding-bottom: 20px;
     border-bottom: 1px solid #898989;
-
+    margin-top: -100px;
 }
 .question .ques-container img{
     width: 22px;
