@@ -46,3 +46,22 @@ header .wrapper ul li:last-child a{
     border-radius: 30px;
     margin-bottom: 10px;
 }
+/* hero section */
+
+#hero{
+    width: 100%;
+    height: calc(100vh - 90px);
+    background-color: #1DB954;
+}
+
+#hero .wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#hero .wrapper .right img{
+    width: 450px;
+    margin-top: 72px;
+    margin-right: 50px;
+}
