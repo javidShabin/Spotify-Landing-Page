@@ -119,3 +119,20 @@ header .wrapper ul li:last-child a{
      font-size: 14px;
      text-align: center;
 }
+
+/* Small section */
+
+.small-section{
+    background-color: #1DB954;
+    padding: 50px 0;
+}
+.small-section .wrapper h1{
+    text-align: center;
+    font-size: 56px;
+    font-weight: bold;
+}
+.small-section .wrapper h3{
+    text-align: center;
+    font-size: 40px;
+    font-weight: normal;
+}
