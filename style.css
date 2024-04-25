@@ -145,11 +145,19 @@ header .wrapper ul li:last-child a{
     font-weight: bold;
     margin-top: 8rem;
 }
+
+.question h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+
 .question .ques-container{
     width: 35%;
     display: flex;
     justify-content: space-between;
     margin: 7rem auto;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #898989;
 
 }
 .question .ques-container img{
